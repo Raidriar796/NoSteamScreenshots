@@ -1,6 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup> 
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NoSteamScreenshots</RootNamespace>
+    <AssemblyTitle>NoSteamScreenshots</AssemblyTitle>
+    <Authors>Raidriar796</Authors>
+    <Copyright>Copyright © 2023 Raidriar796</Copyright>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <TargetFramework>net472</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
